@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Project [HMI Adapter.PrjPcb]
+   Generated File[HMI Adapter.BOM]
+   Generated File[HMI Adapter.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 11:54:09 PM On 03/09/2015

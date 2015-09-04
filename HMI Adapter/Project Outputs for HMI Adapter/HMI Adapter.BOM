@@ -1,0 +1,18 @@
+Bill of Material for HMI Adapter.PrjPcb
+On 03/09/2015 at 11:54:09 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0R                  T_RESC0603X30N    3    R?, R?, R?                   Resistor 0 ohm 63mW 1% 0603 
+ 100nF               T_CAPC0603X33N   11    C?, C?, C?, C?, C?, C?, C?   Capacitor Ceramic X7R 100nF 16V 10% 0603 
+                                           C?, C?, C?, C?
+ 100R                T_RESC0603X30N    9    R?, R?, R?, R?, R?, R?, R?   Resistor 100 ohm 63mW 5% 0603 
+                                           R?, R?
+ 178-009-613R571     T_NorComp_178-YYY-613R691    1    X?                           RS232 Connector 9 pins male 
+ 284512-2            T_TYCO_284512-2    5    X?, X?, X?, X?, X?           Power Connector      
+ MAX3232             DIP16            1    IC?                                               
+ MCP2551T-I/SN       SOIC127P600X173-8N    1    IC?                          High speed CAN Transceiver 
+ RAPC722X            T_RAPC722X       1    X?                           Power Jack           
+ SN65HVD11           DIP8             2    IC?, IC?                     Differential Bus Transceiver 
+ SST26VF064                           1    IC?                                               
+ TSW-125-07-G-D      T_HeaderPin_Male_50Pin_2.54mmPitch    1    X?                           Header, 2x25 Pins, 2.54 mm pitch 
